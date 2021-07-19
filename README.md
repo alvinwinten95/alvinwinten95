@@ -1,0 +1,4 @@
+- 👋 Hi, I’m AlvinSim
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning python and c++
+- 📫 My email alvin300611@hotmail.com
